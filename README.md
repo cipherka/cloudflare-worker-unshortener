@@ -1,5 +1,5 @@
 # unshortener
-A CloudFlare Worker serverless API for unshorten links
+A serverless API based on CloudFlare Worker for unshorten links
 
 ## How to use?
 * Go to CloudFlare dashboard
